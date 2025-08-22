@@ -1,0 +1,7 @@
+names:
+- wild_boar
+- domestic_pig
+nc: 2
+path: C:/Users/amon/Documents/Yolo/consolidated_dataset
+train: train/images
+val: val/images
